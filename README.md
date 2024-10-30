@@ -34,7 +34,7 @@ Esto deberia dar como resultado
 [1, 3]
 [2, 4]
 
-python'''
+
 
 ## Criterio de Evaluación
 
