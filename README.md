@@ -20,7 +20,6 @@ class Matriz:
 
     def transpuesta(self):
         return Matriz([[fila[i] for fila in self.elementos] for i in range(len(self.elementos[0]))])
-'''
 
 m = Matriz([[1, 2], [3, 4]])
 m.imprimir()
@@ -34,6 +33,9 @@ Esto deberia dar como resultado
 
 [1, 3]
 [2, 4]
+
+'''python
+
 
 ## Criterio de Evaluación
 
